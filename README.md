@@ -5,11 +5,11 @@
 </p>
 
 ### 🚀 About Me
-I am an analytical, detail-oriented **M.Sc. Data Science** candidate combining structured technical engineering foundations with hands-on experience building automated data architectures, validating database integrity, and engineering data flows[cite: 3, 6]. I specialize in eliminating process bottlenecks, structuring scalable pipelines, and utilizing advanced AI workflows through smart prompting to accelerate execution speed[cite: 3, 6].
+I am an analytical, detail-oriented **M.Sc. Data Science** candidate combining structured technical engineering foundations with hands-on experience building automated data architectures, validating database integrity, and engineering data flows. I specialize in eliminating process bottlenecks, structuring scalable pipelines, and utilizing advanced AI workflows through smart prompting to accelerate execution speed.
 
-- 🌍 Based in **Berlin, Germany**[cite: 3, 6]
-- 🎓 Pursuing M.Sc. in Data Science at **University of Europe for Applied Sciences**[cite: 3, 6]
-- ⚡ Fun fact: I balance my technical data world with classical Bharatnatyam dance and creative video content strategy[cite: 1]
+- 🌍 Based in **Berlin, Germany**
+- 🎓 Pursuing M.Sc. in Data Science at **University of Europe for Applied Sciences**
+- ⚡ Fun fact: I balance my technical data world with classical Bharatnatyam dance and creative video content strategy.
 
 ---
 
@@ -27,8 +27,8 @@ I am an analytical, detail-oriented **M.Sc. Data Science** candidate combining s
     <td valign="top" width="50%">
       <strong>⚙️ Automation & GTM Infrastructure</strong><br/>
       • n8n, Zapier, Webhooks & REST-APIs<br/>
-      • CRM Systems (HubSpot, Salesforce architecture)[cite: 3]<br/>
-      • Workflow Orchestration & Data Flow Mapping[cite: 3, 6]<br/>
+      • CRM Systems (HubSpot, Salesforce architecture)<br/>
+      • Workflow Orchestration & Data Flow Mapping<br/>
       • Cloud Foundations (AWS Certified & Microsoft Azure)
     </td>
   </tr>
@@ -46,5 +46,5 @@ I am an analytical, detail-oriented **M.Sc. Data Science** candidate combining s
 
 ### 📁 Featured Infrastructure Projects
 
-* **[Multi-System Product Analytics Loop](https://github.com/HarshaBodhe)** – Engineered a data pipeline utilizing Python and SQL to monitor usage anomalies, syncing system layers with n8n and pushing real-time webhook alerts to team channels[cite: 6].
-* **[AI-Powered Lead Enrichment Engine](https://github.com/HarshaBodhe)** – Constructed a real-time loop parsing raw JSON payloads through custom Python nodes, routing inputs to LLM nodes to evaluate enterprise records against ideal profiles[cite: 6].
+* **[Multi-System Product Analytics Loop](https://github.com/HarshaBodhe)** – Engineered a data pipeline utilizing Python and SQL to monitor usage anomalies, syncing system layers with n8n and pushing real-time webhook alerts to team channels.
+* **[AI-Powered Lead Enrichment Engine](https://github.com/HarshaBodhe)** – Constructed a real-time loop parsing raw JSON payloads through custom Python nodes, routing inputs to LLM nodes to evaluate enterprise records against ideal profiles.

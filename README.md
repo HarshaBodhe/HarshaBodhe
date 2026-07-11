@@ -46,5 +46,17 @@ I am an analytical, detail-oriented **M.Sc. Data Science** candidate combining s
 
 ### 📁 Featured Infrastructure Projects
 
-* **[Multi-System Product Analytics Loop](https://github.com/HarshaBodhe)** – Engineered a data pipeline utilizing Python and SQL to monitor usage anomalies, syncing system layers with n8n and pushing real-time webhook alerts to team channels.
-* **[AI-Powered Lead Enrichment Engine](https://github.com/HarshaBodhe)** – Constructed a real-time loop parsing raw JSON payloads through custom Python nodes, routing inputs to LLM nodes to evaluate enterprise records against ideal profiles.
+* **[European Carbon Emission Forecast](https://github.com/HarshaBodhe/European-Carbon-Emission-Forecast)**
+  Architected a high-performance, multivariate data pipeline designed to forecast urban carbon emissions across European nations. Focuses heavily on the intersection of predictive analytics, complex time-series data structures, and environmental data science framework modeling.
+
+* **[Urban Traffic Simulator using SUMO](https://github.com/HarshaBodhe/Urban_Traffic_Simulator_using_SUMO)**
+  Engineered a smart traffic orchestration architecture by integrating SUMO (Simulation of Urban MObility) simulation workflows with AWS cloud infrastructure. Built an end-to-end framework capable of processing streaming simulation telemetry to actively monitor, predict, and optimize urban traffic behaviors.
+
+* **[Predictive Customer Response Modeling for Vodafone](https://github.com/HarshaBodhe/Predictive-Customer-Response-Modeling-for-Vodafone-Marketing-Optimization)**
+  Developed an advanced predictive analytics model designed to classify customer response likelihood for target marketing campaigns. Built to enhance GTM efficiency, lower customer acquisition costs (CAC), optimize pipeline targeting, and maximize ROI on corporate marketing spend.
+
+* **[Machine Learning-based Classification of Parkinson's Disease](https://github.com/HarshaBodhe/Machine-Learning-based-Classification-of-Parkinsons-Disease)**
+  Designed a diagnostic classification engine capable of detecting early-stage patient anomalies. Constructed an multi-modal input ingestion process handling asymmetric datasets simultaneously, compiling standard structural CSV metrics together with raw image arrays.
+
+* **[Automated Operations & CRM Data Loop](https://github.com/HarshaBodhe)**
+  Built automated workflow layers using Python, webhooks, and modern ETL tooling to eliminate manual verification overhead, syncing live application metrics directly into data storage grids while establishing real-time slack/email monitoring architectures.

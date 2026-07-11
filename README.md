@@ -36,13 +36,6 @@ I am an analytical, detail-oriented **M.Sc. Data Science** candidate combining s
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshaBodhe&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaBodhe&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
 
 ### 📁 Featured Infrastructure Projects
 

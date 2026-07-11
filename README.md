@@ -58,5 +58,3 @@ I am an analytical, detail-oriented **M.Sc. Data Science** candidate combining s
 * **[Machine Learning-based Classification of Parkinson's Disease](https://github.com/HarshaBodhe/Machine-Learning-based-Classification-of-Parkinsons-Disease)**
   Designed a diagnostic classification engine capable of detecting early-stage patient anomalies. Constructed an multi-modal input ingestion process handling asymmetric datasets simultaneously, compiling standard structural CSV metrics together with raw image arrays.
 
-* **[Automated Operations & CRM Data Loop](https://github.com/HarshaBodhe)**
-  Built automated workflow layers using Python, webhooks, and modern ETL tooling to eliminate manual verification overhead, syncing live application metrics directly into data storage grids while establishing real-time slack/email monitoring architectures.

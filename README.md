@@ -38,10 +38,10 @@ I am a high-agency **GTM & AI Automation Engineer** based in **Berlin, Germany**
 
 ### 📁 Featured GTM & Automation Projects
 
-* **[AI-Powered GTM Pipeline & Lead Enrichment](https://github.com/HarshaBodhe)** *(Replace with your specific repo link if public)*
+* **[AI-Powered GTM Pipeline & Lead Enrichment](https://github.com/HarshaBodhe/GTM-Engineering-Revenue-Attribution-Pipeline)** 
   Engineered a 5-stage serverless automation pipeline utilizing low-latency webhooks, Python text parsing, and LLM completions to process and enrich inbound leads in under 2 seconds, automating CRM synchronization with HubSpot and Slack.
 
-* **[GTM Revenue Attribution Pipeline](https://github.com/HarshaBodhe)** *(Replace with your specific repo link if public)*
+* **[GTM Revenue Attribution Pipeline](https://github.com/HarshaBodhe/AI-Powered-GTM-Pipeline)**
   Built a multi-touch revenue attribution pipeline using JavaScript and Python to track campaign touchpoints, resolve tracking discrepancies, and sync clean analytics data directly into CRM tools.
 
 * **[Predictive Customer Response Modeling for Vodafone](https://github.com/HarshaBodhe/Predictive-Customer-Response-Modeling-for-Vodafone-Marketing-Optimization)**

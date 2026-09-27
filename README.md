@@ -1,15 +1,15 @@
-# Hi there, I'm Harsha Bodhe! 👋 
+Hi there, I'm Harsha Bodhe 👋 | GTM & AI Automation Engineer
 
 <p align="left">
   <a href="https://linkedin.com/in/harsha-bodhe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ### 🚀 About Me
-I am an analytical, detail-oriented **M.Sc. Data Science** candidate combining structured technical engineering foundations with hands-on experience building automated data architectures, validating database integrity, and engineering data flows. I specialize in eliminating process bottlenecks, structuring scalable pipelines, and utilizing advanced AI workflows through smart prompting to accelerate execution speed.
+I am a high-agency **GTM & AI Automation Engineer** based in **Berlin, Germany**, specializing in building intelligent revenue systems, serverless workflows, and automated pipeline infrastructure. I bridge the gap between business operations and technical execution—designing webhooks, REST APIs, and multi-agent LLM systems to eliminate operational friction and accelerate pipeline velocity.
 
 - 🌍 Based in **Berlin, Germany**
-- 🎓 Pursuing M.Sc. in Data Science at **University of Europe for Applied Sciences**
-- ⚡ Fun fact: I balance my technical data world with classical Bharatnatyam dance and creative video content strategy.
+- 🎓 M.Sc. Data Science graduate from **University of Europe for Applied Sciences**
+- ⚡ Focus: Workflow Automation (n8n, Make, Zapier), CRM Architecture (HubSpot), API Integrations, and AI-Driven GTM Operations.
 
 ---
 
@@ -18,36 +18,34 @@ I am an analytical, detail-oriented **M.Sc. Data Science** candidate combining s
 <table>
   <tr>
     <td valign="top" width="50%">
-      <strong>💻 Languages & Analytics</strong><br/>
-      • Python (Pandas, NumPy, Scikit-Learn)<br/>
-      • SQL / MySQL / PostgreSQL foundations<br/>
-      • Streamlit Dashboarding & UI Prototyping<br/>
-      • Advanced Prompt Engineering & LLM APIs
+      <strong>⚙️ GTM & Automation Infrastructure</strong><br/>
+      • n8n, Make.com, Zapier, Webhooks & REST-APIs<br/>
+      • CRM Data Hygiene & HubSpot Architecture<br/>
+      • Workflow Orchestration & ETL Pipeline Design<br/>
+      • Cloud Foundations (AWS Certified & Microsoft Azure)
     </td>
     <td valign="top" width="50%">
-      <strong>⚙️ Automation & GTM Infrastructure</strong><br/>
-      • n8n, Zapier, Webhooks & REST-APIs<br/>
-      • CRM Systems (HubSpot, Salesforce architecture)<br/>
-      • Workflow Orchestration & Data Flow Mapping<br/>
-      • Cloud Foundations (AWS Certified & Microsoft Azure)
+      <strong>💻 Languages & AI Integration</strong><br/>
+      • Python & JavaScript Scripting for Automation<br/>
+      • Streamlit UI Prototyping & Dashboarding<br/>
+      • Advanced Prompt Engineering & LLM APIs<br/>
+      • SQL / PostgreSQL Data Hygiene & Management
     </td>
   </tr>
 </table>
 
 ---
 
+### 📁 Featured GTM & Automation Projects
 
-### 📁 Featured Infrastructure Projects
+* **[AI-Powered GTM Pipeline & Lead Enrichment](https://github.com/HarshaBodhe)** *(Replace with your specific repo link if public)*
+  Engineered a 5-stage serverless automation pipeline utilizing low-latency webhooks, Python text parsing, and LLM completions to process and enrich inbound leads in under 2 seconds, automating CRM synchronization with HubSpot and Slack.
 
-* **[European Carbon Emission Forecast](https://github.com/HarshaBodhe/European-Carbon-Emission-Forecast)**
-  Architected a high-performance, multivariate data pipeline designed to forecast urban carbon emissions across European nations. Focuses heavily on the intersection of predictive analytics, complex time-series data structures, and environmental data science framework modeling.
-
-* **[Urban Traffic Simulator using SUMO](https://github.com/HarshaBodhe/Urban_Traffic_Simulator_using_SUMO)**
-  Engineered a smart traffic orchestration architecture by integrating SUMO (Simulation of Urban MObility) simulation workflows with AWS cloud infrastructure. Built an end-to-end framework capable of processing streaming simulation telemetry to actively monitor, predict, and optimize urban traffic behaviors.
+* **[GTM Revenue Attribution Pipeline](https://github.com/HarshaBodhe)** *(Replace with your specific repo link if public)*
+  Built a multi-touch revenue attribution pipeline using JavaScript and Python to track campaign touchpoints, resolve tracking discrepancies, and sync clean analytics data directly into CRM tools.
 
 * **[Predictive Customer Response Modeling for Vodafone](https://github.com/HarshaBodhe/Predictive-Customer-Response-Modeling-for-Vodafone-Marketing-Optimization)**
-  Developed an advanced predictive analytics model designed to classify customer response likelihood for target marketing campaigns. Built to enhance GTM efficiency, lower customer acquisition costs (CAC), optimize pipeline targeting, and maximize ROI on corporate marketing spend.
+  Designed data-driven customer segmentation and response models to enhance GTM targeting efficiency, lower customer acquisition costs (CAC), and optimize corporate marketing campaign ROI.
 
-* **[Machine Learning-based Classification of Parkinson's Disease](https://github.com/HarshaBodhe/Machine-Learning-based-Classification-of-Parkinsons-Disease)**
-  Designed a diagnostic classification engine capable of detecting early-stage patient anomalies. Constructed an multi-modal input ingestion process handling asymmetric datasets simultaneously, compiling standard structural CSV metrics together with raw image arrays.
-
+* **[European Carbon Emission Forecast & Dashboard](https://github.com/HarshaBodhe/European-Carbon-Emission-Forecast)**
+  Architected a multivariate data pipeline coupled with an interactive Streamlit UI dashboard to transform complex time-series data structures into actionable decision-support tools.

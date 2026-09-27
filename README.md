@@ -5,7 +5,7 @@ Hi there, I'm Harsha Bodhe 👋 | GTM & AI Automation Engineer
 </p>
 
 ### 🚀 About Me
-I am a high-agency **GTM & AI Automation Engineer** based in **Berlin, Germany**, specializing in building intelligent revenue systems, serverless workflows, and automated pipeline infrastructure. I bridge the gap between business operations and technical execution—designing webhooks, REST APIs, and multi-agent LLM systems to eliminate operational friction and accelerate pipeline velocity.
+I am a high-agency **GTM & AI Automation Engineer** based in **Berlin, Germany**, specializing in building intelligent revenue systems, serverless workflows, and automated pipeline infrastructure. I bridge the gap between business operations and technical execution designing webhooks, REST APIs, and multi-agent LLM systems to eliminate operational friction and accelerate pipeline velocity.
 
 - 🌍 Based in **Berlin, Germany**
 - 🎓 M.Sc. Data Science graduate from **University of Europe for Applied Sciences**

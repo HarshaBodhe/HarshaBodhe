@@ -1,51 +1,40 @@
-Hi there, I'm Harsha Bodhe 👋 | GTM & AI Automation Engineer
+# Hi there, I'm Harsha Bodhe 👋 | Junior Data Analyst & Data Quality Specialist
 
-<p align="left">
-  <a href="https://linkedin.com/in/harsha-bodhe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+I am a detail-oriented **M.Sc. Data Science graduate** based in **Berlin, Germany**, with hands-on experience in building automated data pipelines, maintaining data hygiene, and translating complex data requirements into actionable business insights. I bridge the gap between technical data engineering and business operations to ensure data integrity and support strategic decision-making.
 
-### 🚀 About Me
-I am a high-agency **GTM & AI Automation Engineer** based in **Berlin, Germany**, specializing in building intelligent revenue systems, serverless workflows, and automated pipeline infrastructure. I bridge the gap between business operations and technical execution designing webhooks, REST APIs, and multi-agent LLM systems to eliminate operational friction and accelerate pipeline velocity.
-
-- 🌍 Based in **Berlin, Germany**
-- 🎓 M.Sc. Data Science graduate from **University of Europe for Applied Sciences**
-- ⚡ Focus: Workflow Automation (n8n, Make, Zapier), CRM Architecture (HubSpot), API Integrations, and AI-Driven GTM Operations.
+* 🌍 **Based in:** Berlin, Germany
+* 🎓 **Education:** M.Sc. Data Science from University of Europe for Applied Sciences
+* 📊 **Focus:** Data Quality Assurance, ETL Pipeline Development, Business Intelligence, and Workflow Automation.
 
 ---
 
-### 🛠️ Tech Stack & Ecosystems
+## 🛠️ Technical Stack & Ecosystems
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>⚙️ GTM & Automation Infrastructure</strong><br/>
-      • n8n, Make.com, Zapier, Webhooks & REST-APIs<br/>
-      • CRM Data Hygiene & HubSpot Architecture<br/>
-      • Workflow Orchestration & ETL Pipeline Design<br/>
-      • Cloud Foundations (AWS Certified & Microsoft Azure)
-    </td>
-    <td valign="top" width="50%">
-      <strong>💻 Languages & AI Integration</strong><br/>
-      • Python & JavaScript Scripting for Automation<br/>
-      • Streamlit UI Prototyping & Dashboarding<br/>
-      • Advanced Prompt Engineering & LLM APIs<br/>
-      • SQL / PostgreSQL Data Hygiene & Management
-    </td>
-  </tr>
-</table>
+| Core Data & Analytics | Engineering & Automation |
+| :--- | :--- |
+| • **SQL & PostgreSQL** (Data Hygiene & Management) | • **Python & Pandas** (Data Processing & Scripting) |
+| • **BI Reporting & Dashboarding** (Streamlit, Excel) | • **ETL Pipelines & Workflow Design** |
+| • **Data Modeling & KPI Standardization** | • **REST APIs, Webhooks & Automation** (n8n, Zapier) |
+| • **Cloud Foundations** (AWS Certified & Microsoft Azure) | • **Git Version Control & Documentation** |
 
 ---
 
-### 📁 Featured GTM & Automation Projects
+## 📂 Featured Data & Analytics Projects
 
-* **[AI-Powered GTM Pipeline & Lead Enrichment](https://github.com/HarshaBodhe/GTM-Engineering-Revenue-Attribution-Pipeline)** 
-  Engineered a 5-stage serverless automation pipeline utilizing low-latency webhooks, Python text parsing, and LLM completions to process and enrich inbound leads in under 2 seconds, automating CRM synchronization with HubSpot and Slack.
+* **[European Carbon Emissions Forecasting & Decision Support Dashboard](https://github.com/HarshaBodhe/European-Carbon-Emission-Forecast)**
+  * Developed an end-to-end predictive data pipeline and interactive Streamlit application combining machine learning forecasting with optimization logic.
+  * Translated complex environmental time-series data into intuitive data visualization dashboards and structured reporting for stakeholders.
 
-* **[GTM Revenue Attribution Pipeline](https://github.com/HarshaBodhe/AI-Powered-GTM-Pipeline)**
-  Built a multi-touch revenue attribution pipeline using JavaScript and Python to track campaign touchpoints, resolve tracking discrepancies, and sync clean analytics data directly into CRM tools.
+* **[AI-Powered GTM Pipeline & Data Validation](https://github.com/HarshaBodhe/AI-Powered-GTM-Pipeline)**
+  * Architected a 5-stage automated data pipeline utilizing low-latency webhooks and Python text parsing to process and validate inbound records.
+  * Ensured strict data quality standards by deploying automated validation checks prior to downstream database and CRM updates.
 
-* **[Predictive Customer Response Modeling for Vodafone](https://github.com/HarshaBodhe/Predictive-Customer-Response-Modeling-for-Vodafone-Marketing-Optimization)**
-  Designed data-driven customer segmentation and response models to enhance GTM targeting efficiency, lower customer acquisition costs (CAC), and optimize corporate marketing campaign ROI.
+* **[Multi-Agent LLM Reasoning & Process Analytics](https://github.com/HarshaBodhe)**
+  * Conducted quantitative evaluations and statistical validation of data frameworks on complex benchmark datasets to analyze error patterns.
+  * Delivered clear analytical reports and automated evaluation scripts using Python and Pandas to track performance metrics for leadership review.
 
-* **[European Carbon Emission Forecast & Dashboard](https://github.com/HarshaBodhe/European-Carbon-Emission-Forecast)**
-  Architected a multivariate data pipeline coupled with an interactive Streamlit UI dashboard to transform complex time-series data structures into actionable decision-support tools.
+---
+
+### 📫 Let's Connect
+* **LinkedIn:** [harsha-bodhe](https://www.linkedin.com/in/harsha-bodhe/)
+* **Email:** harshaabodhe@gmail.com

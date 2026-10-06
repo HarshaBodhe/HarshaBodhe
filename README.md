@@ -10,17 +10,28 @@ I am an M.Sc. Data Science graduate based in Berlin, Germany, with hands-on expe
 
 ## 🛠️ Technical Stack & Ecosystems
 
+## 🛠️ Technical Stack & Ecosystems
+
 | Core Product & Analytics | Engineering & Growth Automation |
 | :--- | :--- |
-| • **Product Analytics & Funnels** (PostHog, KPI Tracking) | • **Python & Pandas** (Data Processing & Scripting)
-| • **SQL & PostgreSQL** (Data Hygiene & Management)
-| • **BI Reporting & Dashboarding** (Streamlit, Excel) | • **ETL Pipelines & Workflow Design** |
-| • **Data Modeling & Feature Mapping** | • **REST APIs, Webhooks & Automation** (n8n, Zapier) |
-| • **Cloud Foundations** (AWS & Azure) | • **Git Version Control & Documentation** |
+| • **Product Analytics & Funnels** (PostHog, KPI Tracking) | • **Python & Pandas** (Data Processing & Scripting) |
+| • **SQL & PostgreSQL** (Data Hygiene & Management) | • **ETL Pipelines & Workflow Design** |
+| • **BI Reporting & Dashboarding** (Streamlit, Excel) | • **REST APIs, Webhooks & Automation** (n8n, Zapier) |
+| • **Data Modeling & Feature Mapping** | • **Git Version Control & Documentation** |
+| • **Cloud Foundations** (AWS & Azure) | • **Cloud Foundations & Deployment** |
+
+---
+
+## 📂 Featured Product, Growth & Data Projects
+
+* **[AI-Powered GTM Pipeline](https://github.com/HarshaBodhe/AI-Powered-GTM-Pipeline)** — *Engineered an automated B2B onboarding & GTM pipeline utilizing Python, PostgreSQL, and webhooks to eliminate conversion drop-offs, slash prospecting turnaround time, and scale developer acquisition.*
+* **[European Carbon Emissions Forecasting & Decision Support Dashboard](https://github.com/HarshaBodhe/European-Carbon-Emissions-Forecasting)** — *Built an end-to-end ML pipeline and interactive Streamlit dashboard combining Stacked LSTM networks and PuLP linear programming optimization.*
  
 ---
 
 ## 📂 Featured Data & Analytics Projects
+
+* **[AI-Powered GTM Pipeline](https://github.com/HarshaBodhe/AI-Powered-GTM-Pipeline)** — Engineered an automated B2B onboarding & GTM pipeline utilizing Python, PostgreSQL, and webhooks to eliminate conversion drop-offs, slash prospecting turnaround time, and scale developer acquisition.
 
 * **[European Carbon Emissions Forecasting & Decision Support Dashboard](https://github.com/HarshaBodhe/European-Carbon-Emission-Forecast)**
   * Developed an end-to-end predictive data pipeline and interactive Streamlit application combining machine learning forecasting with optimization logic.

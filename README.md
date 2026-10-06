@@ -1,21 +1,21 @@
-# Hi there, I'm Harsha Bodhe 👋 | Junior Data Analyst & Data Quality Specialist
+# Hi there, I'm Harsha Bodhe 👋 | Junior Product & Growth Specialist
 
-I am a detail-oriented **M.Sc. Data Science graduate** based in **Berlin, Germany**, with hands-on experience in building automated data pipelines, maintaining data hygiene, and translating complex data requirements into actionable business insights. I bridge the gap between technical data engineering and business operations to ensure data integrity and support strategic decision-making.
+I am an M.Sc. Data Science graduate based in Berlin, Germany, with hands-on experience in translating complex data requirements into scalable product solutions, automated data pipelines, and high-impact growth funnels. I bridge the gap between technical engineering, user analytics, and business operations to drive product activation and strategic decision-making.
 
-* 🌍 **Based in:** Berlin, Germany
+* 🌐 **Based in:** Berlin, Germany
 * 🎓 **Education:** M.Sc. Data Science from University of Europe for Applied Sciences
-* 📊 **Focus:** Data Quality Assurance, ETL Pipeline Development, Business Intelligence, and Workflow Automation.
+* 📊 **Focus:** Product Analytics, Funnel Optimization, Workflow Automation, Business Intelligence and Data-Driven Growth.
 
 ---
 
 ## 🛠️ Technical Stack & Ecosystems
 
-| Core Data & Analytics | Engineering & Automation |
+| Core Product & Analytics | Engineering & Growth Automation |
 | :--- | :--- |
-| • **SQL & PostgreSQL** (Data Hygiene & Management) | • **Python & Pandas** (Data Processing & Scripting) |
+| • **Product Analytics & Funnels** (PostHog, KPI Tracking) | • **Python & Pandas** (Data Processing & Scripting) | • **SQL & PostgreSQL** (Data Hygiene & Management)
 | • **BI Reporting & Dashboarding** (Streamlit, Excel) | • **ETL Pipelines & Workflow Design** |
-| • **Data Modeling & KPI Standardization** | • **REST APIs, Webhooks & Automation** (n8n, Zapier) |
-| • **Cloud Foundations** (AWS Certified & Microsoft Azure) | • **Git Version Control & Documentation** |
+| • **Data Modeling & Feature Mapping** | • **REST APIs, Webhooks & Automation** (n8n, Zapier) |
+| • **Cloud Foundations** (AWS & Azure) | • **Git Version Control & Documentation** |
 
 ---
 

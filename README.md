@@ -22,13 +22,6 @@ I am an M.Sc. Data Science graduate based in Berlin, Germany, with hands-on expe
 
 ## 📂 Featured Product, Growth & Data Projects
 
-* **[AI-Powered GTM Pipeline](https://github.com/HarshaBodhe/AI-Powered-GTM-Pipeline)** — *Engineered an automated B2B onboarding & GTM pipeline utilizing Python, PostgreSQL, and webhooks to eliminate conversion drop-offs, slash prospecting turnaround time, and scale developer acquisition.*
-* **[European Carbon Emissions Forecasting & Decision Support Dashboard](https://github.com/HarshaBodhe/European-Carbon-Emissions-Forecasting)** — *Built an end-to-end ML pipeline and interactive Streamlit dashboard combining Stacked LSTM networks and PuLP linear programming optimization.*
- 
----
-
-## 📂 Featured Data & Analytics Projects
-
 * **[AI-Powered GTM Pipeline](https://github.com/HarshaBodhe/AI-Powered-GTM-Pipeline)** — Engineered an automated B2B onboarding & GTM pipeline utilizing Python, PostgreSQL, and webhooks to eliminate conversion drop-offs, slash prospecting turnaround time, and scale developer acquisition.
 
 * **[European Carbon Emissions Forecasting & Decision Support Dashboard](https://github.com/HarshaBodhe/European-Carbon-Emission-Forecast)**

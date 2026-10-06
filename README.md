@@ -22,8 +22,6 @@ I am an M.Sc. Data Science graduate based in Berlin, Germany, with hands-on expe
 
 ## 📂 Featured Product, Growth & Data Projects
 
-## 📂 Featured Product, Growth & Data Projects
-
 * **[AI-Powered GTM Pipeline](https://github.com/HarshaBodhe/AI-Powered-GTM-Pipeline)**  
   *Engineered an automated B2B onboarding & GTM pipeline utilizing Python, PostgreSQL, and webhooks to eliminate conversion drop-offs, slash prospecting turnaround time, and scale developer acquisition.*
 

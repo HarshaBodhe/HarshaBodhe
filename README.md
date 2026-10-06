@@ -12,7 +12,8 @@ I am an M.Sc. Data Science graduate based in Berlin, Germany, with hands-on expe
 
 | Core Product & Analytics | Engineering & Growth Automation |
 | :--- | :--- |
-| • **Product Analytics & Funnels** (PostHog, KPI Tracking) | • **Python & Pandas** (Data Processing & Scripting) | • **SQL & PostgreSQL** (Data Hygiene & Management)
+| • **Product Analytics & Funnels** (PostHog, KPI Tracking) | • **Python & Pandas** (Data Processing & Scripting)
+| • **SQL & PostgreSQL** (Data Hygiene & Management)
 | • **BI Reporting & Dashboarding** (Streamlit, Excel) | • **ETL Pipelines & Workflow Design** |
 | • **Data Modeling & Feature Mapping** | • **REST APIs, Webhooks & Automation** (n8n, Zapier) |
 | • **Cloud Foundations** (AWS & Azure) | • **Git Version Control & Documentation** |

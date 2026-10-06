@@ -17,7 +17,7 @@ I am an M.Sc. Data Science graduate based in Berlin, Germany, with hands-on expe
 | • **BI Reporting & Dashboarding** (Streamlit, Excel) | • **ETL Pipelines & Workflow Design** |
 | • **Data Modeling & Feature Mapping** | • **REST APIs, Webhooks & Automation** (n8n, Zapier) |
 | • **Cloud Foundations** (AWS & Azure) | • **Git Version Control & Documentation** |
-
+ 
 ---
 
 ## 📂 Featured Data & Analytics Projects

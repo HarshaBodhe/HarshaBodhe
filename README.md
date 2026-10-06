@@ -22,20 +22,19 @@ I am an M.Sc. Data Science graduate based in Berlin, Germany, with hands-on expe
 
 ## 📂 Featured Product, Growth & Data Projects
 
-* **[AI-Powered GTM Pipeline](https://github.com/HarshaBodhe/AI-Powered-GTM-Pipeline)**
- * Engineered an automated B2B onboarding & GTM pipeline utilizing Python, PostgreSQL, and webhooks to eliminate conversion drop-offs, slash prospecting   turnaround time, and scale developer acquisition.
+## 📂 Featured Product, Growth & Data Projects
 
-* **[European Carbon Emissions Forecasting & Decision Support Dashboard](https://github.com/HarshaBodhe/European-Carbon-Emission-Forecast)**
-  * Developed an end-to-end predictive data pipeline and interactive Streamlit application combining machine learning forecasting with optimization logic.
-  * Translated complex environmental time-series data into intuitive data visualization dashboards and structured reporting for stakeholders.
+* **[AI-Powered GTM Pipeline](https://github.com/HarshaBodhe/AI-Powered-GTM-Pipeline)**  
+  *Engineered an automated B2B onboarding & GTM pipeline utilizing Python, PostgreSQL, and webhooks to eliminate conversion drop-offs, slash prospecting turnaround time, and scale developer acquisition.*
 
-* **[AI-Powered GTM Pipeline & Data Validation](https://github.com/HarshaBodhe/AI-Powered-GTM-Pipeline)**
-  * Architected a 5-stage automated data pipeline utilizing low-latency webhooks and Python text parsing to process and validate inbound records.
-  * Ensured strict data quality standards by deploying automated validation checks prior to downstream database and CRM updates.
+* **[European Carbon Emissions Forecasting & Decision Support Dashboard](https://github.com/HarshaBodhe/European-Carbon-Emissions-Forecasting)**  
+  *Developed an end-to-end predictive data pipeline and interactive Streamlit application combining machine learning and optimization logic to translate complex environmental data into intuitive dashboards.*
 
-* **[Multi-Agent LLM Reasoning & Process Analytics](https://github.com/HarshaBodhe)**
-  * Conducted quantitative evaluations and statistical validation of data frameworks on complex benchmark datasets to analyze error patterns.
-  * Delivered clear analytical reports and automated evaluation scripts using Python and Pandas to track performance metrics for leadership review.
+* **[AI-Powered GTM Pipeline & Data Validation](https://github.com/HarshaBodhe/AI-Powered-GTM-Pipeline)**  
+  *Architected a 5-stage automated data pipeline utilizing low-latency webhooks and Python text parsing, ensuring strict data quality standards prior to downstream processing.*
+
+* **[Multi-Agent LLM Reasoning & Process Analytics](https://github.com/HarshaBodhe)**  
+  *Conducted quantitative evaluations and statistical validation of data frameworks, delivering clear analytical reports and automated evaluation scripts using Python and Pandas.*
 
 ---
 

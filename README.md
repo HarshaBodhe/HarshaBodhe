@@ -10,8 +10,6 @@ I am an M.Sc. Data Science graduate based in Berlin, Germany, with hands-on expe
 
 ## 🛠️ Technical Stack & Ecosystems
 
-## 🛠️ Technical Stack & Ecosystems
-
 | Core Product & Analytics | Engineering & Growth Automation |
 | :--- | :--- |
 | • **Product Analytics & Funnels** (PostHog, KPI Tracking) | • **Python & Pandas** (Data Processing & Scripting) |

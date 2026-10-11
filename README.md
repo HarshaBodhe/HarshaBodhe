@@ -1,4 +1,4 @@
-# Hi there, I'm Harsha Bodhe 👋 | Junior Product & Growth Specialist
+# Hi there, I'm Harsha Bodhe 👋 | 
 
 I am an M.Sc. Data Science graduate based in Berlin, Germany, with hands-on experience in translating complex data requirements into scalable product solutions, automated data pipelines, and high-impact growth funnels. I bridge the gap between technical engineering, user analytics, and business operations to drive product activation and strategic decision-making.
 
